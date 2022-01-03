@@ -23,8 +23,8 @@ Kokru news app finds the top news around you from trustable media houses, curate
 - [Someone's attempt to clone Kokru](https://github.com/yokesh22/kokru-clone)
 - [App Reviewed by Several Youtubers](https://www.youtube.com/results?search_query=kokru+app+review)
 
-<img src="https://i.imgur.com/kFM7eJ4.png" width=420 height=640/> <img src="https://i.imgur.com/udz4hE7.png" width=513 height=640/>
-<img src="https://i.imgur.com/Pvmua7D.png" width=410 height=640/> <img src="https://i.imgur.com/6J7mhwL.png" width=522 height=558/>
+<img src="https://i.imgur.com/kFM7eJ4.png" width=280 height=426/> <img src="https://i.imgur.com/udz4hE7.png" width=342 height=426/>
+<img src="https://i.imgur.com/Pvmua7D.png" width=273 height=426/> <img src="https://i.imgur.com/6J7mhwL.png" width=348 height=372/>
 
 ### Details
 - Team size is just 2 (Backend dev + Flutter dev(me))
