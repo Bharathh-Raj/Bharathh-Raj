@@ -46,6 +46,9 @@ Chitti Classes - Best learning app for K-10 students! The app is designed for st
 ### My Contribution
 - User Interface
 - HLS Video Player
+
+<img src="https://i.imgur.com/5zSPEZs.gif" width=360 height=740/>
+
 ## [TDD Translate](https://github.com/Bharathh-Raj/tdd_tranlsate)
 
 [![Project](https://img.shields.io/badge/Github-TDD%20Translate%20Project-orange)](https://github.com/Bharathh-Raj/tdd_tranlsate)
