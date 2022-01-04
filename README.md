@@ -23,8 +23,8 @@ Kokru news app finds the top news around you from trustable media houses, curate
 - [Someone's attempt to clone Kokru](https://github.com/yokesh22/kokru-clone)
 - [App Reviewed by Several Youtubers](https://www.youtube.com/results?search_query=kokru+app+review)
 
-<img src="https://i.imgur.com/kFM7eJ4.png" width=280 height=426/> <img src="https://i.imgur.com/udz4hE7.png" width=342 height=426/>
-<img src="https://i.imgur.com/Pvmua7D.png" width=273 height=426/> <img src="https://i.imgur.com/6J7mhwL.png" width=348 height=372/>
+<img src="https://i.imgur.com/kFM7eJ4.png" width=420 height=640/> <img src="https://i.imgur.com/udz4hE7.png" width=513 height=640/>
+<img src="https://i.imgur.com/Pvmua7D.png" width=410 height=640/> <img src="https://i.imgur.com/6J7mhwL.png" width=522 height=558/>
 
 ### Details
 - Team size is just 2 (Backend dev + Flutter dev(me))
@@ -75,6 +75,7 @@ Generates algorithm to generate password for every user dynamically. Hashes the 
 ### Rent Monitor
 Simple Rent Monitor app which is used to record and manage rents.
 # [📜 Articles Wrote](https://bharath-dev.medium.com/)
+- **[The Clean Architecture — Beginners Guide](https://bharath-dev.medium.com/the-clean-architecture-beginners-guide-e4b7058c1165)**
 - **[Flutter Clock App —Pure Custom Paint with some Math](https://bharath-dev.medium.com/flutter-clock-app-pure-custom-paint-with-some-math-294d24a6bced)**
 - **[Is TRIGONOMETRY that hard? Let’s build it from SCRATCH](https://bharath-dev.medium.com/is-trigonometry-that-hard-lets-build-it-from-scratch-551a14d252ec)**
 - **[Why do we need the Hexadecimal number system?](https://bharath-dev.medium.com/why-do-we-need-the-hexadecimal-number-system-c1fc04728608)**
@@ -83,18 +84,8 @@ Simple Rent Monitor app which is used to record and manage rents.
 ### In Progress
 - **Are we Alone?**
 - **My UNIFIED DOUBTS leads to suspect our EXISTENCE**
+- **Clean Architecture - Flutter**
 - **TDD**
-# 🌱 Hobby
-- [Writing articles](https://bharath-dev.medium.com/)
-- Photography
-- Reading books
-- Planting
-- Conducting programming seminars
-- Hosting Flutter webinars
-- Conducting Photography seminars
-- Discussing programming topics with friends
-- Astrophysics and theoretical astronomy
-- Basic finance and accounting
 # 📖 Books Read
 - Attitude is everything (by Jeff Keller)
 - Rich Dad Poor Dad (by Robert Kiyosaki)
@@ -112,3 +103,14 @@ Simple Rent Monitor app which is used to record and manage rents.
 - Smart India Hackathon runner
 - Department Photography head
 - Directed and starred on a short film
+# 🌱 Hobby
+- [Writing articles](https://bharath-dev.medium.com/)
+- Photography
+- Reading books
+- Planting
+- Conducting programming seminars
+- Hosting Flutter webinars
+- Conducting Photography seminars
+- Discussing programming topics with friends
+- Astrophysics and theoretical astronomy
+- Basic finance and accounting
