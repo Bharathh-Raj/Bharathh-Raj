@@ -6,6 +6,10 @@
 ## 🚀 About me
 
 ## Contacts
+<img src="https://i.imgur.com/kANq2qI.png" width=20 height=20/>   [bharathh_raj](https://instagram.com/bharathh_raj)
+
+<img src="https://i.imgur.com/mtyLJij.png" width=20 height=20/>   [Bharath](https://bharath-dev.medium.com/)
+
 ✉️ bharath.dev.ray@gmail.com
 
 📞 +91 75488 43373
@@ -23,6 +27,7 @@ Kokru news app finds the top news around you from trustable media houses, curate
 - [Someone's attempt to clone Kokru](https://github.com/yokesh22/kokru-clone)
 - [App Reviewed by Several Youtubers](https://www.youtube.com/results?search_query=kokru+app+review)
 
+<img src="https://i.imgur.com/FUIHkrU.gif" width=360 height=740/>
 <img src="https://i.imgur.com/kFM7eJ4.png" width=420 height=640/> <img src="https://i.imgur.com/udz4hE7.png" width=513 height=640/>
 <img src="https://i.imgur.com/Pvmua7D.png" width=410 height=640/> <img src="https://i.imgur.com/6J7mhwL.png" width=522 height=558/>
 
