@@ -50,8 +50,29 @@ Chitti Classes - Best learning app for K-10 students! The app is designed for st
 <img src="https://i.imgur.com/5zSPEZs.gif" width=360 height=740/>
 
 ## [TDD Translate](https://github.com/Bharathh-Raj/tdd_tranlsate)
+Translation and Language Detection App following Strict TDD Guidelines.
+
+[**Followed Clean Architecture described by Robert C. Martin (Uncle Bob)**](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 [![Project](https://img.shields.io/badge/Github-TDD%20Translate%20Project-orange)](https://github.com/Bharathh-Raj/tdd_tranlsate)
+
+### Details
+App Consists of 3 modules
+
+* Supported Languages - Gets all the Supported Language
+* Detect Language - Detect the languages the input matches with
+* Translate - Translate to target language
+
+Data Sources
+
+* Remote API call for all 3 modules
+* Local DB for Supported language module (Fetches and caches locally)
+
+**Dependency Flow described by Uncle Bob**
+![Clean Architecture](https://i.imgur.com/mOBBmwO.jpg)
+
+**My Dependency Flow**
+![TDD Translate App Dependency Flow](https://i.imgur.com/hF2wQVz.png)
 ## [Level Map](https://pub.dev/packages/level_map)
 A Flutter library to add level-map feature with powerful customization options
 
