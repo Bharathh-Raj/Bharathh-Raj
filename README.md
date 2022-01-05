@@ -2,10 +2,7 @@
 # Hi, I'm Bharath! 👋
 <img src="https://avatars.githubusercontent.com/u/42716432?v=4" width=360 height=360/> 
 
-
-## 🚀 About me
-
-## Contacts
+## Contact Me
 <img src="https://i.imgur.com/kANq2qI.png" width=20 height=20/>   [bharathh_raj](https://instagram.com/bharathh_raj)
 
 <img src="https://i.imgur.com/mtyLJij.png" width=20 height=20/>   [Bharath](https://bharath-dev.medium.com/)
@@ -16,6 +13,18 @@
 
 📍 Chennai, Tamil Nadu, India
 
+# [📜 Articles Wrote](https://bharath-dev.medium.com/)
+- **[The Clean Architecture — Beginners Guide](https://bharath-dev.medium.com/the-clean-architecture-beginners-guide-e4b7058c1165)**
+- **[Flutter Clock App —Pure Custom Paint with some Math](https://bharath-dev.medium.com/flutter-clock-app-pure-custom-paint-with-some-math-294d24a6bced)**
+- **[Is TRIGONOMETRY that hard? Let’s build it from SCRATCH](https://bharath-dev.medium.com/is-trigonometry-that-hard-lets-build-it-from-scratch-551a14d252ec)**
+- **[Why do we need the Hexadecimal number system?](https://bharath-dev.medium.com/why-do-we-need-the-hexadecimal-number-system-c1fc04728608)**
+- **[Why Encapsulation?](https://bharath-dev.medium.com/why-encapsulation-8f74439a27fe)**
+- **[Why OOPS?](https://bharath-dev.medium.com/why-oops-efd5eff62ae4)**
+### In Progress
+- **Are we Alone?**
+- **My UNIFIED DOUBTS leads to suspect our EXISTENCE**
+- **Clean Architecture - Flutter**
+- **TDD**
 # 🛠 Projects
 ## [KOKRU - News App](https://play.google.com/store/apps/details?id=com.kokru.app)
 Kokru news app finds the top news around you from trustable media houses, curates it in simple language, and summarises it in one line.
@@ -29,7 +38,7 @@ Kokru news app finds the top news around you from trustable media houses, curate
 
 <img src="https://i.imgur.com/FUIHkrU.gif" width=360 height=740/>
 <img src="https://i.imgur.com/kFM7eJ4.png" width=420 height=640/> <img src="https://i.imgur.com/udz4hE7.png" width=513 height=640/>
-<img src="https://i.imgur.com/Pvmua7D.png" width=410 height=640/> <img src="https://i.imgur.com/6J7mhwL.png" width=522 height=558/>
+<!-- <img src="https://i.imgur.com/Pvmua7D.png" width=410 height=640/> <img src="https://i.imgur.com/6J7mhwL.png" width=522 height=558/> -->
 
 ### Details
 - Team size is just 2 (Backend dev + Flutter dev(me))
@@ -103,18 +112,6 @@ Provides daily stats and news of Covid-19 cases in India
 Generates algorithm to generate password for every user dynamically. Hashes the algorithm with the user's login id and stores the hased algorithm in the DB. Generates password based on the algorithm, along with the website name, user name and the mail id. So that it doesn't need to store the password anywhere.
 ### Rent Monitor
 Simple Rent Monitor app which is used to record and manage rents.
-# [📜 Articles Wrote](https://bharath-dev.medium.com/)
-- **[The Clean Architecture — Beginners Guide](https://bharath-dev.medium.com/the-clean-architecture-beginners-guide-e4b7058c1165)**
-- **[Flutter Clock App —Pure Custom Paint with some Math](https://bharath-dev.medium.com/flutter-clock-app-pure-custom-paint-with-some-math-294d24a6bced)**
-- **[Is TRIGONOMETRY that hard? Let’s build it from SCRATCH](https://bharath-dev.medium.com/is-trigonometry-that-hard-lets-build-it-from-scratch-551a14d252ec)**
-- **[Why do we need the Hexadecimal number system?](https://bharath-dev.medium.com/why-do-we-need-the-hexadecimal-number-system-c1fc04728608)**
-- **[Why Encapsulation?](https://bharath-dev.medium.com/why-encapsulation-8f74439a27fe)**
-- **[Why OOPS?](https://bharath-dev.medium.com/why-oops-efd5eff62ae4)**
-### In Progress
-- **Are we Alone?**
-- **My UNIFIED DOUBTS leads to suspect our EXISTENCE**
-- **Clean Architecture - Flutter**
-- **TDD**
 # 📖 Books Read
 - Attitude is everything (by Jeff Keller)
 - Rich Dad Poor Dad (by Robert Kiyosaki)
@@ -130,6 +127,7 @@ Simple Rent Monitor app which is used to record and manage rents.
 # 🥇 Key Achievements
 - Startup Weekend Winner
 - Smart India Hackathon runner
+- Hockey District level runner under my captaincy
 - Department Photography head
 - Directed and starred on a short film
 # 🌱 Hobby
@@ -143,3 +141,6 @@ Simple Rent Monitor app which is used to record and manage rents.
 - Discussing programming topics with friends
 - Astrophysics and theoretical astronomy
 - Basic finance and accounting
+## Objective
+* Develop applications which are scalable and maintainable by minimum resources
+* Always love to work with great team
