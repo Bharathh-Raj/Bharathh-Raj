@@ -13,25 +13,34 @@
 
 📍 Chennai, Tamil Nadu, India
 
-# [📜 Articles Wrote](https://bharath-dev.medium.com/)
-- **[The Clean Architecture — Beginners Guide](https://bharath-dev.medium.com/the-clean-architecture-beginners-guide-e4b7058c1165)**
-- **[Flutter Clock App —Pure Custom Paint with some Math](https://bharath-dev.medium.com/flutter-clock-app-pure-custom-paint-with-some-math-294d24a6bced)**
-- **[Is TRIGONOMETRY that hard? Let’s build it from SCRATCH](https://bharath-dev.medium.com/is-trigonometry-that-hard-lets-build-it-from-scratch-551a14d252ec)**
-- **[Why do we need the Hexadecimal number system?](https://bharath-dev.medium.com/why-do-we-need-the-hexadecimal-number-system-c1fc04728608)**
-- **[Why Encapsulation?](https://bharath-dev.medium.com/why-encapsulation-8f74439a27fe)**
-- **[Why OOPS?](https://bharath-dev.medium.com/why-oops-efd5eff62ae4)**
-### In Progress
-- **Are we Alone?**
-- **My UNIFIED DOUBTS leads to suspect our EXISTENCE**
-- **Clean Architecture - Flutter**
-- **TDD**
+## About Me
+* I am a CS engineer and I'm learning flutter since it was in Beta. 
+* I started with cloning a few apps,then learned advanced state management like Bloc, firebase, server API integration, databases, etc... 
+* Architectured and developed some apps. 
+* Developed and contributed some open source packages in "pub.dev". 
+* Wrote some articles related to programming and math.
+* Love to read books.
+* Love to accept and solve complex challenges.
+* Currently focussing on following TDD guidelines for flutter development. 
+## Flutter Skills
+* Architecting Flutter Apps
+* Complex Flutter Animations
+* Advanced State Management like BLOC
+* Unit Testing and Widget Testing
+* Apply SOLID Principles in my development
+* Apply Clean Architecture guidelines by Uncle Bob
+* Follow Test-Driven Development - TDD
+* Experience in CustomPaint
 # 🛠 Projects
 ## [KOKRU - News App](https://play.google.com/store/apps/details?id=com.kokru.app)
 Kokru news app finds the top news around you from trustable media houses, curates it in simple language, and summarises it in one line.
-### App Records
+
+Available in both [**Android**](https://play.google.com/store/apps/details?id=com.kokru.app) and [**IOS**](https://apps.apple.com/in/app/kokru-personalized-news/id1558789562).
+### App Achievements
 - [App Store Trending #1 within 16 hours from launch](https://i.imgur.com/bJzsj3j.jpg)
 - [Play Store Trending #2 within 3 days from launch](https://i.imgur.com/kjUuWf3.jpg)
-- 4.7⭐ Rating and 39K+ Reviews
+- 4.7⭐ Rating and 39K+ Reviews in Play Store
+- 4.8⭐ Rating from 1.3K Reviews in App Store
 - 100K+ Downloads
 - [Someone's attempt to clone Kokru](https://github.com/yokesh22/kokru-clone)
 - [App Reviewed by Several Youtubers](https://www.youtube.com/results?search_query=kokru+app+review)
@@ -40,7 +49,9 @@ Kokru news app finds the top news around you from trustable media houses, curate
 <img src="https://i.imgur.com/kFM7eJ4.png" width=420 height=640/> <img src="https://i.imgur.com/udz4hE7.png" width=513 height=640/>
 <!-- <img src="https://i.imgur.com/Pvmua7D.png" width=410 height=640/> <img src="https://i.imgur.com/6J7mhwL.png" width=522 height=558/> -->
 
-### Details
+### My Contribution
+* Entire Application from Architecture to Release
+<!-- ### Details
 - Team size is just 2 (Backend dev + Flutter dev(me))
 - Every Animations and Widgets are built from scratch
 - flutter_bloc library is used for state management
@@ -49,7 +60,7 @@ Kokru news app finds the top news around you from trustable media houses, curate
 - dartz library is used for functional error handling
 - get_it as service locator
 - "UI -> Bloc -> Repository -> Data Source" flow used
-- Unit Tested core logic
+- Unit Tested core logic -->
 ## [Chitti Classes](https://play.google.com/store/apps/details?id=vgts.lmes.chitti)
 Chitti Classes - Best learning app for K-10 students! The app is designed for students from class 1-10 combining animation, Drama, real life story explanation as video lessons. This makes students understand hard concepts and make them apply things in real life.
 ### My Contribution
@@ -70,7 +81,7 @@ App Consists of 3 modules
 
 * Supported Languages - Gets all the Supported Language
 * Detect Language - Detect the languages the input matches with
-* Translate - Translate to target language
+* Translate - Translate to the target language
 
 Data Sources
 
@@ -89,7 +100,7 @@ A Flutter library to add level-map feature with powerful customization options
 
 <img src="https://i.imgur.com/4UXqOX6.png" width=240 height=494/> <img src="https://i.imgur.com/WJ7qyMi.png" width=240 height=494/> <img src="https://i.imgur.com/R3vDIoS.jpg" width=240 height=494/>
 ## [Multi State Button](https://pub.dev/packages/multi_state_button)
-A package which provides multiple states for a button with endless customizability.
+A package that provides multiple states for a button with endless customizability.
 
 [![Documentation](https://img.shields.io/badge/Github-Multi%20State%20Button%20Documentation-orange)](https://github.com/Bharathh-Raj/multi_state_button) [![Sample Project](https://img.shields.io/badge/Github-Multi%20State%20Button%20Sample%20Project-00D1D1)](https://github.com/Bharathh-Raj/multi_state_button/tree/main/example)
 
@@ -109,9 +120,29 @@ Provides daily stats and news of Covid-19 cases in India
 ## 🛠 On going side projects
 
 ### PassMan
-Generates algorithm to generate password for every user dynamically. Hashes the algorithm with the user's login id and stores the hased algorithm in the DB. Generates password based on the algorithm, along with the website name, user name and the mail id. So that it doesn't need to store the password anywhere.
+Generates algorithm to generate passwords for every user dynamically. Hashes the algorithm with the user's login id and stores the hashed algorithm in the DB. Generates passwords based on the algorithm, along with the website name, user name and mail id. So that it doesn't need to store the password anywhere.
 ### Rent Monitor
 Simple Rent Monitor app which is used to record and manage rents.
+## Experience in Advanced Flutter Packages
+* [dio](https://pub.dev/packages/dio) - HTTP Client with Interceptor
+* [dartz](https://pub.dev/packages/dartz) -  Functional Error Handling
+* [get_it](https://pub.dev/packages/get_it) - Service Locator
+* [hive](https://pub.dev/packages/hive) - Lightweight Local DB
+* [flutter_bloc](https://pub.dev/packages/flutter_bloc) - State management lib based on BLOC
+* [freezed](https://pub.dev/packages/freezed) -  Code generation for immutable classes
+* [mockito](https://pub.dev/packages/mockito) - A mock framework for testing
+# [📜 Articles Wrote](https://bharath-dev.medium.com/)
+- **[The Clean Architecture — Beginners Guide](https://bharath-dev.medium.com/the-clean-architecture-beginners-guide-e4b7058c1165)**
+- **[Flutter Clock App —Pure Custom Paint with some Math](https://bharath-dev.medium.com/flutter-clock-app-pure-custom-paint-with-some-math-294d24a6bced)**
+- **[Is TRIGONOMETRY that hard? Let’s build it from SCRATCH](https://bharath-dev.medium.com/is-trigonometry-that-hard-lets-build-it-from-scratch-551a14d252ec)**
+- **[Why do we need the Hexadecimal number system?](https://bharath-dev.medium.com/why-do-we-need-the-hexadecimal-number-system-c1fc04728608)**
+- **[Why Encapsulation?](https://bharath-dev.medium.com/why-encapsulation-8f74439a27fe)**
+- **[Why OOPS?](https://bharath-dev.medium.com/why-oops-efd5eff62ae4)**
+### In Progress
+- **Are we Alone?**
+- **My UNIFIED DOUBTS leads to suspect our EXISTENCE**
+- **Clean Architecture - Flutter**
+- **TDD**
 # 📖 Books Read
 - Attitude is everything (by Jeff Keller)
 - Rich Dad Poor Dad (by Robert Kiyosaki)
