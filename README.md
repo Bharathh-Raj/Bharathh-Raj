@@ -46,7 +46,7 @@ Available in both [**Android**](https://play.google.com/store/apps/details?id=co
 - [App Reviewed by Several Youtubers](https://www.youtube.com/results?search_query=kokru+app+review)
 
 <img src="https://i.imgur.com/FUIHkrU.gif" width=360 height=740/>
-<img src="https://i.imgur.com/kFM7eJ4.png" width=420 height=640/> <img src="https://i.imgur.com/udz4hE7.png" width=513 height=640/>
+<!-- <img src="https://i.imgur.com/kFM7eJ4.png" width=420 height=640/> <img src="https://i.imgur.com/udz4hE7.png" width=513 height=640/> -->
 <!-- <img src="https://i.imgur.com/Pvmua7D.png" width=410 height=640/> <img src="https://i.imgur.com/6J7mhwL.png" width=522 height=558/> -->
 
 ### My Contribution
