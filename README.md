@@ -3,9 +3,13 @@
 <img src="https://avatars.githubusercontent.com/u/42716432?v=4" width=360 height=360/> 
 
 ## Contact Me
-<img src="https://i.imgur.com/kANq2qI.png" width=20 height=20/>   [bharathh_raj](https://instagram.com/bharathh_raj)
+<img src="https://i.imgur.com/Co1FZO4.png" width=20 height=20/>   [Bharath T](https://linkedin.com/in/bharath-t-dev)
 
 <img src="https://i.imgur.com/mtyLJij.png" width=20 height=20/>   [Bharath](https://bharath-dev.medium.com/)
+
+<img src="https://i.imgur.com/xaqNDhA.png" width=20 height=20/>   [Bharath](https://twitter.com/bharath_dev_t)
+
+<img src="https://i.imgur.com/kANq2qI.png" width=20 height=20/>   [bharathh_raj](https://instagram.com/bharathh_raj)
 
 ✉️ bharath.dev.ray@gmail.com
 
