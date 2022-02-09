@@ -6,12 +6,13 @@
 <p>
   <a href="https://linkedin.com/in/bharath-t-dev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/bharath_dev_t" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/bharath_dev_t" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://instagram.com/bharathh_raj" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:bharath.dev.ray@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <!-- <img src="https://i.imgur.com/Co1FZO4.png" width=20 height=20/>   [Bharath T](https://linkedin.com/in/bharath-t-dev) -->
 
-<img src="https://i.imgur.com/mtyLJij.png" width=20 height=20/>   [Bharath](https://bharath-dev.medium.com/)
+<!-- <img src="https://i.imgur.com/mtyLJij.png" width=20 height=20/>   [Bharath](https://bharath-dev.medium.com/) -->
 
 <!-- <img src="https://i.imgur.com/xaqNDhA.png" width=20 height=20/>   [Bharath](https://twitter.com/bharath_dev_t) -->
 
