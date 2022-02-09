@@ -42,6 +42,13 @@
 * Apply Clean Architecture guidelines by Uncle Bob
 * Follow Test-Driven Development - TDD
 * Experience in CustomPaint
+# [📜 Articles Wrote](https://bharath-dev.medium.com/)
+- **[The Clean Architecture — Beginners Guide](https://bharath-dev.medium.com/the-clean-architecture-beginners-guide-e4b7058c1165)**
+- **[Flutter Clock App —Pure Custom Paint with some Math](https://bharath-dev.medium.com/flutter-clock-app-pure-custom-paint-with-some-math-294d24a6bced)**
+- **[Is TRIGONOMETRY that hard? Let’s build it from SCRATCH](https://bharath-dev.medium.com/is-trigonometry-that-hard-lets-build-it-from-scratch-551a14d252ec)**
+- **[Why do we need the Hexadecimal number system?](https://bharath-dev.medium.com/why-do-we-need-the-hexadecimal-number-system-c1fc04728608)**
+- **[Why Encapsulation?](https://bharath-dev.medium.com/why-encapsulation-8f74439a27fe)**
+- **[Why OOPS?](https://bharath-dev.medium.com/why-oops-efd5eff62ae4)**
 # 🛠 Projects
 ## [KOKRU - News App](https://play.google.com/store/apps/details?id=com.kokru.app)
 Kokru news app finds the top news around you from trustable media houses, curates it in simple language, and summarises it in one line.
@@ -142,13 +149,7 @@ Simple Rent Monitor app which is used to record and manage rents.
 * [flutter_bloc](https://pub.dev/packages/flutter_bloc) - State management lib based on BLOC
 * [freezed](https://pub.dev/packages/freezed) -  Code generation for immutable classes
 * [mockito](https://pub.dev/packages/mockito) - A mock framework for testing
-# [📜 Articles Wrote](https://bharath-dev.medium.com/)
-- **[The Clean Architecture — Beginners Guide](https://bharath-dev.medium.com/the-clean-architecture-beginners-guide-e4b7058c1165)**
-- **[Flutter Clock App —Pure Custom Paint with some Math](https://bharath-dev.medium.com/flutter-clock-app-pure-custom-paint-with-some-math-294d24a6bced)**
-- **[Is TRIGONOMETRY that hard? Let’s build it from SCRATCH](https://bharath-dev.medium.com/is-trigonometry-that-hard-lets-build-it-from-scratch-551a14d252ec)**
-- **[Why do we need the Hexadecimal number system?](https://bharath-dev.medium.com/why-do-we-need-the-hexadecimal-number-system-c1fc04728608)**
-- **[Why Encapsulation?](https://bharath-dev.medium.com/why-encapsulation-8f74439a27fe)**
-- **[Why OOPS?](https://bharath-dev.medium.com/why-oops-efd5eff62ae4)**
+
 ### In Progress
 - **Are we Alone?**
 - **My UNIFIED DOUBTS leads to suspect our EXISTENCE**
@@ -161,7 +162,6 @@ Simple Rent Monitor app which is used to record and manage rents.
 - Eat that frog (by Brian Tracy)
 - The Clean Code (by Robert C. Martin)
 - Design Patterns (by Gang of four)
-
 ### In Progress
 - The Clean Architecture (by Robert C. Martin)
 - The Compounding Effect (by Darren Hardy)
