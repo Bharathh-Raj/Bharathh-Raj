@@ -3,7 +3,10 @@
 <img src="https://avatars.githubusercontent.com/u/42716432?v=4" width=360 height=360/> 
 
 ## Contact Me
-<img src="https://i.imgur.com/Co1FZO4.png" width=20 height=20/>   [Bharath T](https://linkedin.com/in/bharath-t-dev)
+<p>
+  <a href="https://linkedin.com/in/bharath-t-dev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+<!-- <img src="https://i.imgur.com/Co1FZO4.png" width=20 height=20/>   [Bharath T](https://linkedin.com/in/bharath-t-dev) -->
 
 <img src="https://i.imgur.com/mtyLJij.png" width=20 height=20/>   [Bharath](https://bharath-dev.medium.com/)
 
