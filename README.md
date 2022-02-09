@@ -49,6 +49,14 @@
 - **[Why do we need the Hexadecimal number system?](https://bharath-dev.medium.com/why-do-we-need-the-hexadecimal-number-system-c1fc04728608)**
 - **[Why Encapsulation?](https://bharath-dev.medium.com/why-encapsulation-8f74439a27fe)**
 - **[Why OOPS?](https://bharath-dev.medium.com/why-oops-efd5eff62ae4)**
+## 📈 &nbsp;Some Github Stats ##
+<span align="left">
+
+![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharathh-Raj&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+</span>
+<span align="right">
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bharathh-Raj&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+</span>
 # 🛠 Projects
 ## [KOKRU - News App](https://play.google.com/store/apps/details?id=com.kokru.app)
 Kokru news app finds the top news around you from trustable media houses, curates it in simple language, and summarises it in one line.
