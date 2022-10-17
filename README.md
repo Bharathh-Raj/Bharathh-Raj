@@ -24,6 +24,9 @@
 
 📍 Chennai, Tamil Nadu, India
 
+![](https://komarev.com/ghpvc/?username=Bharathh-Raj)
+[![Bharath StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13518285)](https://stackoverflow.com/users/13518285/bharath-t)
+
 ## About Me
 * I am a CS engineer and I'm learning flutter since it was in Beta. 
 * I started with cloning a few apps,then learned advanced state management like Bloc, firebase, server API integration, databases, etc... 
