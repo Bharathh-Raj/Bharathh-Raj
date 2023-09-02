@@ -48,6 +48,7 @@
 # [📜 Articles Wrote](https://bharath-dev.medium.com/)
 - **[The Clean Architecture — Beginners Guide](https://bharath-dev.medium.com/the-clean-architecture-beginners-guide-e4b7058c1165)**
 - **[Flutter Unit Testing — The Beginner’s Guide](https://betterprogramming.pub/flutter-unit-testing-the-beginners-guide-35105164722e)**
+- **[Flutter Bloc-Don’t prefer single state class](https://bharath-dev.medium.com/flutter-bloc-dont-follow-its-docs-as-it-is-40bf60be38c8)**
 - **[Flutter Clock App —Pure Custom Paint with some Math](https://bharath-dev.medium.com/flutter-clock-app-pure-custom-paint-with-some-math-294d24a6bced)**
 - **[Is TRIGONOMETRY that hard? Let’s build it from SCRATCH](https://bharath-dev.medium.com/is-trigonometry-that-hard-lets-build-it-from-scratch-551a14d252ec)**
 - **[Why do we need the Hexadecimal number system?](https://bharath-dev.medium.com/why-do-we-need-the-hexadecimal-number-system-c1fc04728608)**
