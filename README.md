@@ -50,7 +50,7 @@
 
 
 # 🛠 Projects
-# [Doshi Wallet](https://www.doshiwallet.com/)
+## [Doshi Wallet](https://www.doshiwallet.com/)
 Doshi is a Web3 platform made for the next generation. Safe, educational, and legal to use even if you're under 18, we’re giving access to Web3 regardless of your age. Whether you are an experienced user or a complete newbie in blockchain, Doshi helps you learn about and get the most out of Web3 safely. Available in both [Android](https://play.google.com/store/apps/details?id=doshi.app&hl=en&gl=US) and [IOS](https://apps.apple.com/in/app/kokru-personalized-news/id1558789562).
 
 - Web3 Crypto-Wallet Generation
@@ -62,6 +62,7 @@ Doshi is a Web3 platform made for the next generation. Safe, educational, and le
 - Referral Flow
 
 <img src="https://i.imgur.com/6wWlPax.gif" width=300>
+
 ## [Doshi Learn](https://www.doshi.app/app)
 Doshi is the Duolingo of Finance. It rewards you for learning how to be better with your money by completing academy lessons or asking questions to our AI assistant. Available in both [Android](https://play.google.com/store/apps/details?id=app.doshi.learn) and [IOS](https://apps.apple.com/dk/app/doshi-learn/id6446140405).
 
@@ -72,7 +73,8 @@ Doshi is the Duolingo of Finance. It rewards you for learning how to be better w
 - Marketplace to earn reward, coupons, AI Chat skins & AI Voice overs 
 
 <img src="https://i.imgur.com/ZlqTdyx.gif" width=300>
-## [Doshi Trade](https://trade.doshi.app/) 
+
+## [Doshi Trade](https://trade.doshi.app/)
 A web portal to train from fantasy trading competitions.
 
 - Stocks, ETFs and Crypto Analyse and Trade with False currency.
@@ -81,6 +83,7 @@ A web portal to train from fantasy trading competitions.
 - Join as team to contest with other teams.
 
 <img src="https://i.imgur.com/X85o8W3.gif">
+
 ## [Doshi Teacher](https://doshiteacher.web.app/)
 A web portal for teachers to track their student's learning progress and awards.
 
@@ -93,6 +96,7 @@ A web portal for teachers to track their student's learning progress and awards.
 - Fantasy trading contest tracking
 
 <img src="https://i.imgur.com/rSqSDdC.gif">
+
 ## Doshi Operational Dashboard
 A web portal to manage, track and analyze user data. 
 
@@ -117,6 +121,7 @@ Available in both [**Android**](https://play.google.com/store/apps/details?id=co
 - [App Reviewed by Several Youtubers](https://www.youtube.com/results?search_query=kokru+app+review)
 
 <img src="https://i.imgur.com/FUIHkrU.gif" width=300>
+
 <!-- <img src="https://i.imgur.com/kFM7eJ4.png" width=420 height=640/> <img src="https://i.imgur.com/udz4hE7.png" width=513 height=640/> -->
 <!-- <img src="https://i.imgur.com/Pvmua7D.png" width=410 height=640/> <img src="https://i.imgur.com/6J7mhwL.png" width=522 height=558/> -->
 ## [Chitti Classes](https://play.google.com/store/apps/details?id=vgts.lmes.chitti)
@@ -138,6 +143,7 @@ Sesamy is a “talent first” app that offers a suite of features to help talen
 - Contract, media submission
 - Realtime chat system with media upload, reply to message, etc... 
 <img src="https://i.imgur.com/YRb3JsO.gif" width=300>
+
 ## [TDD Translate](https://github.com/Bharathh-Raj/tdd_tranlsate)
 Translation and Language Detection App following Strict TDD Guidelines.
 
