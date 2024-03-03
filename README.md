@@ -61,7 +61,8 @@ Doshi is a Web3 platform made for the next generation. Safe, educational, and le
 - Fantasy Trading Competitions with Stocks, ETFs and CryptoCurrencies
 - Referral Flow
 
-<img src="https://i.imgur.com/6wWlPax.gif" width=300>
+<!--<img src="https://i.imgur.com/6wWlPax.gif" width=300>-->
+<img src="wallet.gif?raw=true" width=300>
 
 ## [Doshi Learn](https://www.doshi.app/app)
 Doshi is the Duolingo of Finance. It rewards you for learning how to be better with your money by completing academy lessons or asking questions to our AI assistant. Available in both [Android](https://play.google.com/store/apps/details?id=app.doshi.learn) and [IOS](https://apps.apple.com/dk/app/doshi-learn/id6446140405).
