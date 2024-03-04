@@ -109,9 +109,7 @@ A web portal to manage, track and analyze user data.
 - App analytics
 
 ## [KOKRU - News App](https://play.google.com/store/apps/details?id=com.kokru.app)
-Kokru news app finds the top news around you from trustable media houses, curates it in simple language, and summarises it in one line.
-
-Available in both [**Android**](https://play.google.com/store/apps/details?id=com.kokru.app) and [**IOS**](https://apps.apple.com/in/app/kokru-personalized-news/id1558789562).
+Kokru news app finds the top news around you from trustable media houses, curates it in simple language, and summarises it in one line. Available in both [**Android**](https://play.google.com/store/apps/details?id=com.kokru.app) and [**IOS**](https://apps.apple.com/in/app/kokru-personalized-news/id1558789562).
 ### App Achievements
 - [App Store Trending #1 within 16 hours from launch](https://i.imgur.com/bJzsj3j.jpg)
 - [Play Store Trending #2 within 3 days from launch](https://i.imgur.com/kjUuWf3.jpg)
