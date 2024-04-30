@@ -143,6 +143,16 @@ Sesamy is a “talent first” app that offers a suite of features to help talen
 - Realtime chat system with media upload, reply to message, etc... 
 <img src="https://i.imgur.com/YRb3JsO.gif" width=300>
 
+## [bloc_ease Package](https://pub.dev/packages/bloc_ease)
+A dart library to solve boilerplate issues with [flutter_bloc](https://pub.dev/packages/flutter_bloc) by just using typedefs instead of defining state classes.
+1. Don't need to write state classes for any Bloc / Cubit. Instead using the state comes with this package with generics (`SucceedState<Auth>` vs `SucceedState<User>`).
+2. Globally handling common states like Initial, Loading, Failure states in UI. Don't need to worry about these state where-ever we are using Bloc / Cubit.
+3. Comes with a builder that provides the success object in typesafe manner and it could handle other states by itself.
+4. Using typedefs to easily differentiate between states (`typedef AuthSucceedState = SucceedState<Auth>`). (Snippet included for Intellij and VSCode)
+<img src="https://github.com/Bharathh-Raj/bloc_ease/assets/42716432/80d77660-059e-4828-a94f-a5129ecd58bb">
+
+<img src="https://github.com/Bharathh-Raj/bloc_ease/assets/42716432/115729d6-4e51-4b42-9c4c-80ef683cb294">
+
 ## [TDD Translate](https://github.com/Bharathh-Raj/tdd_tranlsate)
 Translation and Language Detection App following Strict TDD Guidelines.
 
